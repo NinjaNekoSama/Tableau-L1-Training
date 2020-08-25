@@ -1,0 +1,17 @@
+Connecting to Data and Bargraph Visualization
+
+1.	Connect to Sample Superstore excel file through excel. Once Connected
+a.	Create a Data source level filter to show data after year 2013. 
+b.	Fetch Orders table in “Drag Sheet Here “area.
+c.	Show Top 300 rows only 
+d.	Create few basic charts using Dimensions & Measures.
+e.	Change the Data source from Sample superstore to Global Superstore.
+2.	Create extract of the connected data source on your desktop.
+3.	Connect to Data source & Create Incremental refresh on Order Date.
+4.	Create a Left Join between Orders and Returns Table based on Common column name.
+5.	Save created visualization in .twbx format
+6.	Create Bar chart for top 5 Products by Sales amount.
+7.	 Create a heat map to Identify the top customer by region ,
+a.	Dimension: Customer Name, Region
+b.	Measures: Profit and Sales
+
